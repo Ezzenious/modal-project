@@ -50,3 +50,13 @@ body {
     animation-name: animatemodal;
     animation-duration: .4s;
 }
+
+#close-btn {
+    font-size: 3rem;
+}
+
+#close-btn:hover {
+    cursor: pointer;
+    color: red;
+    font-size: 3rem;
+}
