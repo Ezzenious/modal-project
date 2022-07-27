@@ -3,3 +3,9 @@ body {
     height: 100vh;
     position: relative;
 }
+
+#open-btn {
+    position: absolute;
+    top: 70%;
+    left: 10%;
+}
